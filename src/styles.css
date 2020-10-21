@@ -1,0 +1,9 @@
+.digit {
+    border-bottom: 1px solid;
+    text-align: center;
+    padding: 10px;
+}
+
+.operator {
+    font-size: 30px;
+}
